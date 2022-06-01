@@ -1,0 +1,129 @@
+[xlf@node-0001 QS]$ mpiexec -n 8 -f ./config ./mpi 10000
+
+Authorized users only. All activities may be monitored and reported.
+
+Authorized users only. All activities may be monitored and reported.
+
+Authorized users only. All activities may be monitored and reported.
+node is node-0001
+node is node-0003
+node is node-0002
+node is node-0001
+node is node-0003
+node is node-0002
+node is node-0004
+node is node-0004
+Total time for 8 Clusters : 1.951218 ms
+Checking..
+Correct!
+
+
+
+[xlf@node-0001 QS]$ mpiexec -n 8 -f ./config ./mpi 100000
+
+Authorized users only. All activities may be monitored and reported.
+
+Authorized users only. All activities may be monitored and reported.
+
+Authorized users only. All activities may be monitored and reported.
+node is node-0004
+node is node-0004
+node is node-0002
+node is node-0002
+node is node-0003
+node is node-0003
+node is node-0001
+node is node-0001
+Total time for 8 Clusters : 16.237259 ms
+Checking..
+Correct!
+
+
+
+[xlf@node-0001 QS]$ mpiexec -n 8 -f ./config ./mpi 1000000
+
+Authorized users only. All activities may be monitored and reported.
+
+Authorized users only. All activities may be monitored and reported.
+
+Authorized users only. All activities may be monitored and reported.
+node is node-0001
+node is node-0002
+node is node-0003
+node is node-0004
+node is node-0001
+node is node-0002
+node is node-0003
+node is node-0004
+Total time for 8 Clusters : 125.486135 ms
+Checking..
+Correct!
+
+
+[xlf@node-0001 QS]$ mpiexec -n 8 -f ./config ./mpi 3000000
+
+Authorized users only. All activities may be monitored and reported.
+
+Authorized users only. All activities may be monitored and reported.
+
+Authorized users only. All activities may be monitored and reported.
+node is node-0004
+node is node-0004
+node is node-0002
+node is node-0002
+node is node-0003
+node is node-0003
+node is node-0001
+node is node-0001
+Total time for 8 Clusters : 301.512241 ms
+Checking..
+Correct!
+
+
+[xlf@node-0001 QS]$ mpiexec -n 8 -f ./config ./mpi 5000000
+
+Authorized users only. All activities may be monitored and reported.
+
+Authorized users only. All activities may be monitored and reported.
+
+Authorized users only. All activities may be monitored and reported.
+node is node-0004
+node is node-0004
+node is node-0003
+node is node-0003
+node is node-0002
+node is node-0002
+node is node-0001
+node is node-0001
+Total time for 8 Clusters : 519.637346 ms
+Checking..
+Correct!
+
+
+
+[xlf@node-0001 QS]$ mpiexec -n 8 -f ./config ./mpi 8000000
+
+Authorized users only. All activities may be monitored and reported.
+
+Authorized users only. All activities may be monitored and reported.
+
+Authorized users only. All activities may be monitored and reported.
+node is node-0001
+node is node-0002
+node is node-0003
+node is node-0004
+node is node-0001
+node is node-0002
+node is node-0003
+node is node-0004
+Total time for 8 Clusters : 1194.402456 ms
+Checking..
+Correct!
+
+
+
+
+
+
+
+

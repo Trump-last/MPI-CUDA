@@ -1,0 +1,31 @@
+[xlf@node-0001 QS]$ mpiexec -n 1 -f ./config ./mpi 10000
+node is node-0001
+Total time for 1 Clusters : 1.660347 ms
+Checking..
+Correct!
+[xlf@node-0001 QS]$ mpiexec -n 1 -f ./config ./mpi 100000
+node is node-0001
+Total time for 1 Clusters : 20.468473 ms
+Checking..
+Correct!
+[xlf@node-0001 QS]$ mpiexec -n 1 -f ./config ./mpi 1000000
+node is node-0001
+Total time for 1 Clusters : 244.165897 ms
+Checking..
+Correct!
+[xlf@node-0001 QS]$ mpiexec -n 1 -f ./config ./mpi 3000000
+node is node-0001
+Total time for 1 Clusters : 794.510365 ms
+Checking..
+Correct!
+[xlf@node-0001 QS]$ mpiexec -n 1 -f ./config ./mpi 5000000
+node is node-0001
+Total time for 1 Clusters : 1361.889601 ms
+Checking..
+Correct!
+[xlf@node-0001 QS]$ mpiexec -n 1 -f ./config ./mpi 8000000
+node is node-0001
+Total time for 1 Clusters : 2297.625780 ms
+Checking..
+Correct!
+[xlf@node-0001 QS]$

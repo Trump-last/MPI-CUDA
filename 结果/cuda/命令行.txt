@@ -1,0 +1,17 @@
+D:\GPU-QuickSort>test.exe 10000 32 256
+2.278
+
+D:\GPU-QuickSort>test.exe 100000 32 256
+2.534
+
+D:\GPU-QuickSort>test.exe 1000000 32 256
+6.757
+
+D:\GPU-QuickSort>test.exe 3000000 32 256
+16.133
+
+D:\GPU-QuickSort>test.exe 5000000 32 256
+19.200
+
+D:\GPU-QuickSort>test.exe 8000000 32 256
+26.342
